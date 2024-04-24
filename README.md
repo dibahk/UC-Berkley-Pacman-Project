@@ -12,8 +12,8 @@ Impact
 
 As someone who has completed these projects, here's a brief overview:
 
-Search: Implement depth-first, breadth-first, uniform cost, and A* search algorithms to solve navigation and traveling salesman problems in the Pac-Man world.
-Multi-Agent Search: Model classic Pac-Man as both an adversarial and stochastic search problem. Implement multi-agent minimax and expectimax algorithms, along with designing evaluation functions.
-Reinforcement Learning: Implement model-based and model-free reinforcement learning algorithms, applied to various environments including Gridworld, Pac-Man, and a simulated crawling robot.
-Ghostbusters: Explore probabilistic inference in a hidden Markov model to track the movement of hidden ghosts in the Pac-Man world. Implement exact inference using the forward algorithm and approximate inference via particle filters.
+*Search*: Implement depth-first, breadth-first, uniform cost, and A* search algorithms to solve navigation and traveling salesman problems in the Pac-Man world.
+*Multi-Agent Search*: Model classic Pac-Man as both an adversarial and stochastic search problem. Implement multi-agent minimax and expectimax algorithms, along with designing evaluation functions.
+*Reinforcement Learning*: Implement model-based and model-free reinforcement learning algorithms, applied to various environments including Gridworld, Pac-Man, and a simulated crawling robot.
+*Ghostbusters*: Explore probabilistic inference in a hidden Markov model to track the movement of hidden ghosts in the Pac-Man world. Implement exact inference using the forward algorithm and approximate inference via particle filters.
 Having walked the path through these projects, I encourage you to dive in and explore the exciting world of AI through Pac-Man! If you have any questions or encounter issues, don't hesitate to reach out. Happy coding!
